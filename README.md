@@ -1,1 +1,1 @@
-O trabalho final foi composto da construção de uma estufa autonoma que aquecesse e resfriasse o ambiente, além de integrar as implementações de FreeRTOs, console CLI, DMA, drivers de dispositivos, cartão SD, etc. 
+O trabalho final foi composto da construção de uma estufa autônoma que aquecesse e resfriasse o ambiente, além de integrar as implementações de FreeRTOs, console CLI, DMA, drivers de dispositivos, cartão SD, etc. 
